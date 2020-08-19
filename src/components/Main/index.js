@@ -9,7 +9,7 @@ import {
   HomeIcon,
   SearchIcon,
   BellIcon,
-  EmailIcon
+  EmailIcon,
 } from "./styles";
 
 function Main() {
@@ -20,7 +20,7 @@ function Main() {
           <BackIcon />
         </button>
         <ProfileInfo>
-          <strong>Guilherme Rodz</strong>
+          <strong>Leonardo Vailatti</strong>
           <span>613 Tweets</span>
         </ProfileInfo>
       </Header>

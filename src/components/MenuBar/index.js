@@ -51,8 +51,8 @@ function MenuBar() {
       <Botside>
         <Avatar />
         <ProfileData>
-          <strong>Guilherme Rodz</strong>
-          <span>@guilherme_rodz</span>
+          <strong>Leonardo Vailatti</strong>
+          <span>@leonardo_vailatti</span>
         </ProfileData>
         <ExitIcon />
       </Botside>

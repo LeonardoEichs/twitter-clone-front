@@ -10,7 +10,7 @@ import {
   LocationIcon,
   CakeIcon,
   Followage,
-  EditButton
+  EditButton,
 } from "./styles";
 
 function ProfilePage() {
@@ -21,8 +21,8 @@ function ProfilePage() {
       </Banner>
       <ProfileData>
         <EditButton outlined>Editar perfil</EditButton>
-        <h1>Guilherme Rodz</h1>
-        <h2>@guilherme_rodz</h2>
+        <h1>Leonardo Vailatti</h1>
+        <h2>@leonardo_vailatti</h2>
         <p>Developer @Rocketseat</p>
         <ul>
           <li>
